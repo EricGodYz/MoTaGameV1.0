@@ -54,6 +54,9 @@
     <ClCompile Include="GameMain.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="haha.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TinyEngine\T_AI.h">
